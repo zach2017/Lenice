@@ -1,4 +1,4 @@
-# Lenice
+# 1
 ### Summary of the Britt-Kaine Bipartisan Child Care Plan
 
 The Britt-Kaine Bipartisan Child Care Plan, proposed by Senators Katie Britt (R-AL) and Tim Kaine (D-VA), aims to address the child care crisis in the U.S. through a two-part legislative approach: the **Child Care Availability and Affordability Act** and the **Child Care Workforce Act**. The plan seeks to lower child care costs for families, increase the supply of quality child care, and improve wages and retention for child care workers. It uses tax code reforms and a grant-based pilot program to achieve these goals, drawing on data from states like Alabama and Virginia, where child care shortages and high costs hinder families and economic growth.
